@@ -1,0 +1,7 @@
+C:\Users\jentl\source\repos\Modul13HomeWork\Modul13HomeWork\bin\Debug\Modul13HomeWork.exe.config
+C:\Users\jentl\source\repos\Modul13HomeWork\Modul13HomeWork\bin\Debug\Modul13HomeWork.exe
+C:\Users\jentl\source\repos\Modul13HomeWork\Modul13HomeWork\bin\Debug\Modul13HomeWork.pdb
+C:\Users\jentl\source\repos\Modul13HomeWork\Modul13HomeWork\obj\Debug\Modul13HomeWork.csprojAssemblyReference.cache
+C:\Users\jentl\source\repos\Modul13HomeWork\Modul13HomeWork\obj\Debug\Modul13HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\jentl\source\repos\Modul13HomeWork\Modul13HomeWork\obj\Debug\Modul13HomeWork.exe
+C:\Users\jentl\source\repos\Modul13HomeWork\Modul13HomeWork\obj\Debug\Modul13HomeWork.pdb
